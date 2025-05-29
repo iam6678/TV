@@ -669,6 +669,16 @@ HTV导视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/in
 浙江数码时代,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228989/01.m3u8?fmt=ts2hls
 之江纪录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228989/1/01.m3u8?fmt=ts2hls
 娱乐,#genre#
+动作电影,http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$NEWTV
+家庭剧场,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$NEWTV
+古装剧场,http://39.134.65.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$NEWTV
+超级电视剧,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$NEWTV
+超级电影,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$NEWTV
+超级体育,http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$NEWTV
+超级综艺,http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$NEWTV
+金牌综艺,http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$NEWTV
+惊悚悬疑,http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$NEWTV
+黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$NEWTV
 求索纪实,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
 爱谍战,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
 爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls

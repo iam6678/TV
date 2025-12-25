@@ -52,10 +52,6 @@ CCTV-4,http://183.129.255.66:8480/hls/4/index.m3u8
 CCTV-4,http://btblxbw.x3322.net:8082/hls/4/index.m3u8
 CCTV-4,http://39.164.138.145:8899/hls/4/index.m3u8
 CCTV-4,http://39.164.138.145:9082/hls/4/index.m3u8
-CCTV-4K,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
-CCTV-4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-CCTV-4K,http://39.134.185.235/PLTV/88888888/224/3221226758/index.m3u8
-CCTV-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
 CCTV-5,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232669/index.m3u8
 CCTV-5,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236175/index.m3u8
 CCTV-5,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/1/index.m3u8?fmt=ts2hls
@@ -212,6 +208,10 @@ CCTV-17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/1/in
 CCTV-17,http://39.164.138.145:9003/hls/17/index.m3u8
 CCTV-17,http://39.164.138.145:8899/hls/17/index.m3u8
 CCTV-17,http://39.164.138.145:9082/hls/17/index.m3u8
+CCTV-4K,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K,http://39.134.185.235/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
 CCTV-高尔夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls
 CCTV-军事评论,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236153/index.m3u8
 CCTV-军事评论,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8

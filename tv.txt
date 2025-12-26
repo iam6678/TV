@@ -153,7 +153,6 @@ CCTV-12,http://36.110.54.118:866/hls/11/index.m3u8
 CCTV-12,http://itms3.sdlk.vip:3333/hls/12/index.m3u8
 CCTV-12,http://39.164.138.145:8899/hls/12/index.m3u8
 CCTV-12,http://39.164.138.145:9082/hls/12/index.m3u8
-CCTV-13,http://183.129.255.66:8480/hls/14/index.m3u8
 CCTV-13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8
 CCTV-13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/1/index.m3u8?fmt=ts2hls
 CCTV-13,http://39.164.138.145:9003/hls/13/index.m3u8
@@ -163,6 +162,7 @@ CCTV-13,http://itms3.sdlk.vip:3333/hls/13/index.m3u8
 CCTV-13,http://39.164.138.145:8899/hls/13/index.m3u8
 CCTV-13,http://39.164.138.145:9082/hls/13/index.m3u8
 CCTV-13,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8
+CCTV-13,http://183.129.255.66:8480/hls/14/index.m3u8
 CCTV-14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236257/index.m3u8
 CCTV-14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8
 CCTV-14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/1/index.m3u8?fmt=ts2hls

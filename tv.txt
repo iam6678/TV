@@ -11,7 +11,7 @@ CCTV-9,http://go.bkpcp.top/mg/cctv9
 CCTV-10,http://go.bkpcp.top/mg/cctv10 
 CCTV-11,http://go.bkpcp.top/mg/cctv11
 CCTV-12,http://go.bkpcp.top/mg/cctv12 
-CCT-V13,http://go.bkpcp.top/mg/cctv13 
+CCTV-13,http://go.bkpcp.top/mg/cctv13 
 CCTV-14,http://go.bkpcp.top/mg/cctv14
 CCTV-15,http://go.bkpcp.top/mg/cctv15
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p 

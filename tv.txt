@@ -736,6 +736,60 @@ CGTN西语,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 兵团卫视,http://go.bkpcp.top/mg/btws 
 黑龙江视,http://go.bkpcp.top/mg/hljws 
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+無綫新聞,https://cdn6.163189.xyz/163189/wxxw
+Now新聞,https://cdn.163189.xyz/163189/now
+娛樂新聞,https://cdn6.163189.xyz/163189/ylxw
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
+华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠(新加坡),https://o11.163189.xyz/stream/live/jade/
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
+VIUTV,https://cdn10.163189.xyz/stream/163189/viu/
+VIUTVSIX,https://cdn10.163189.xyz/stream/163189/viu6/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+無綫新聞,https://cdn6.163189.xyz/163189/wxxw
+Now新聞,https://cdn.163189.xyz/163189/now
+娛樂新聞,https://cdn6.163189.xyz/163189/ylxw
+翡翠台,https://r.jdshipin.com/qrfbg
+翡翠台,https://r.jdshipin.com/62WM7
+无线新闻,https://r.jdshipin.com/CkuBd
+明珠台,https://r.jdshipin.com/ZQ4kN
+TVB Plus,https://r.jdshipin.com/ndGgS
+TVB Plus,https://r.jdshipin.com/Nr5jq
+TVB星河,https://r.jdshipin.com/Voac4
+TVB星河,https://r.jdshipin.com/sXuuD
+华丽翡翠,https://r.jdshipin.com/thuYX
+ViuTV,https://r.jdshipin.com/vSJvl
+凤凰中文,https://r.jdshipin.com/cCCzW
+凤凰资讯,https://r.jdshipin.com/0Rp07
+凤凰香港,https://r.jdshipin.com/yDoTN
+澳视澳门,https://r.jdshipin.com/n2YZI
+HOY77,https://r.jdshipin.com/sFw4S
+澳视卫星,https://r.jdshipin.com/QFhCq
+广东珠江,https://r.jdshipin.com/sE5vO
+广东体育,https://r.jdshipin.com/LiYdg
+广州综合,https://r.jdshipin.com/iR6Gq
+广州南国都市,https://r.jdshipin.com/nWaZO
+广州综合,https://r.jdshipin.com/snhya
+海峡卫视,https://r.jdshipin.com/WtYt3
+翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
+無綫新聞,https://hls.iill.top/api/TVB-News/index.m3u8
+Now新聞,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
+Now財經,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
+ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
+BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
+HBO,https://hls.iill.top/api/HBO/index.m3u8
+HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 4K超高清,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
 浙江,#genre#
 钱江台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
